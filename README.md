@@ -33,7 +33,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[x]: https://twitter.com/@yaniracrespo04 
+[twitter]: https://twitter.com/@yaniracrespo04 
 [youtube]: https://www.youtube.com/@yanira_crespo
 [instagram]: https://www.instagram.com/yanira_c_b
 [linkedin]: https://linkedin.com/in/yareya/
