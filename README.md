@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
  
- - Coming Soon!🔜
+ - CodePen Page:
+   
+🔗 https://codepen.io/Yareya
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
