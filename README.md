@@ -1,6 +1,7 @@
 <h1>Hola, I'm Yanira! <br/><a href="https://github.com/yaniracrespo">Software Engineer</a>, <a href="https://www.linkedin.com/in/yareya/">Java Full Stack Developer</a>, <a href="https://www.youtube.com/@yanira_crespo">Front-End Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+- Coming Soon!🔜
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -19,12 +20,12 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 -->
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos:</h2>
 
 - Coming Soon!🔜
 
 
-<h2>📑 Certifications</h2>
+<h2>📑 Certifications:</h2>
 
 - ycbaez01@gmail.com / yaniracrespo0415@gmail.com
   
