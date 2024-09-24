@@ -22,7 +22,7 @@
 
 - Coming Soon!🔜
 
-  <h2>📑Certification</h2>
+  <h2>📑Certifications</h2>
 
 - 
   
