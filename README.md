@@ -20,7 +20,7 @@
 
 <h2> 📫 How to reach me:</h2>
 
-- ycbaez01@gmail.com / yaniracrespo0415@gmail.com
+- yaniracrespo0415@gmail.com / ycbaez01@gmail.com 
 
 
 <h2> 🛍️ Bussiness Site:</h2>
