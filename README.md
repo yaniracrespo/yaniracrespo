@@ -28,7 +28,8 @@
 
 <h2>📑 Certifications:</h2>
 
--  Diploma
+-  <h2>Diploma</h2>
+  
 🔗 https://www.parchment.com/u/award/55e5c5102026e906dc87ab9cbff04cba
   
 
