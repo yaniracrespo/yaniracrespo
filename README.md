@@ -1,4 +1,8 @@
-<h1>Hola, I'm Yanira! <br/><a href="https://github.com/yaniracrespo">Software Engineer</a>, <a href="https://www.linkedin.com/in/yareya/">Java Full Stack Developer</a>, <a href="https://www.youtube.com/@yanira_crespo">Front-End Developer</a></h1>
+<h1>Hola, I'm Yanira! <br/></h1>
+<!--<a href="https://github.com/yaniracrespo">Software Engineer</a>, <a href="https://www.linkedin.com/in/yareya/">Java Full Stack Developer</a>, <a href="https://www.youtube.com/@yanira_crespo">Front-End Developer</a>
+-->
+<h2><em>Software Engineer, Java Full Stack, Front-End Developer</em></h2>
+<br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
  
