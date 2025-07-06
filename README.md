@@ -1,7 +1,7 @@
 <h1>Hola, I'm Yanira! <br/></h1>
 <!--<a href="https://github.com/yaniracrespo">Software Engineer</a>, <a href="https://www.linkedin.com/in/yareya/">Java Full Stack Developer</a>, <a href="https://www.youtube.com/@yanira_crespo">Front-End Developer</a>
 -->
-<h2><em>Software Engineer, Java Full Stack, Front-End Developer</em></h2>
+<h1><em>Software Engineer, Java Full Stack, Front-End Developer</em></h1>
 <br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -43,6 +43,7 @@
 [youtube]: https://www.youtube.com/@yanira_crespo
 [instagram]: https://www.instagram.com/yanira_c_b
 [linkedin]: https://linkedin.com/in/yareya/
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
