@@ -29,7 +29,7 @@
 
 <h2> 🛍️ Bussiness Site:</h2>
 
-🔗 https://www.yglam.store/
+🔗 https://bmatchaffe.myshopify.com/en
 
 
 <h2> 🤳 Connect with me:</h2>
