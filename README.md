@@ -39,9 +39,9 @@
 [linkedin]: https://linkedin.com/in/yareya/
 <br>
 <h4>
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... "Developing a new foundational project independently, from initial concept to full implementation."
  <br>
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... "Constantly exploring and advancing in technology, project design and execution, coding practices, and analytical frameworks."
   <br>
 - 👯 I’m looking to collaborate on ...
   <br>
