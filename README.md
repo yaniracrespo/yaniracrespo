@@ -22,6 +22,8 @@
 🔗 https://www.parchment.com/u/award/55e5c5102026e906dc87ab9cbff04cba
 
 🔗 https://github.com/yaniracrespo/yaniracrespo/blob/main/SheCodes%20Certificate.jpeg
+
+🔗 https://github.com/yaniracrespo/yaniracrespo/blob/main/Yanira%20Crespo_Emonics%20Certificate.jpeg
   
 
 <h2> 📫 How to reach me:</h2>
