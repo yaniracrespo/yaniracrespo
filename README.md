@@ -16,7 +16,7 @@
 - Coming Soon!🔜
 
 <h2>📑 Certifications:</h2>
-Yanira Crespo_Emonics Certificate.jpeg
+https://github.com/yaniracrespo/yaniracrespo/blob/main/SheCodes%20Certificate.jpeg
 
 - Diploma:
   
