@@ -38,7 +38,7 @@
 [instagram]: https://www.instagram.com/yanira_c_b
 [linkedin]: https://linkedin.com/in/yareya/
 <br>
-<h4>
+<h5>
 - 🔭 I’m currently working on ... "Developing a new foundational project independently, from initial concept to full implementation."
  <br>
 - 🌱 I’m currently learning ... "Constantly exploring and advancing in technology, project design and execution, coding practices, and analytical frameworks."
@@ -54,7 +54,7 @@
 - 😄 Pronouns: ...
   <br>
 - ⚡ Fun fact: ...
- </h4>
+ </h5>
 <!--
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
